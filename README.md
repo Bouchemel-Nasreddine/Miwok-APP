@@ -1,4 +1,7 @@
 Miwok App
+
+This app was developed by BOUCHEMEL Nasreddine.
+
 ===================================
 
 This app displays lists of vocabulary words for the user to learn the Miwok language.
